@@ -1,0 +1,19 @@
+# === Logs ===
+*.log
+logs/
+npm-debug.log*
+
+# === OS files ===
+.DS_Store         # macOS
+Thumbs.db         # Windows
+ehthumbs.db       # Windows
+
+# === IDEs ===
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.sw?
+

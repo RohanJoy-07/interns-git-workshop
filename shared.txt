@@ -1,2 +1,2 @@
-Original content
-Change from User B
+This is the resolved content we want to keep
+
